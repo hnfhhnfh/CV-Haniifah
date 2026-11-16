@@ -46,6 +46,9 @@ nav {
 }
 
 .logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%; 
   color: var(--khaki);
   font-weight: 700;
   font-size: 1.3rem;
